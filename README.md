@@ -23,8 +23,8 @@ git --version
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/xyxx-egx/botnet-DOS.git
-cd botnet-DOS
+git clone https://github.com/xyxx-egx/botnet-DOS-
+cd botnet-DOS-
 ```
 
 ## Cara run
