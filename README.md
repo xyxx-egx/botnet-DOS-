@@ -51,7 +51,7 @@ python Dos.py
 Di Linux / macOS, kalau `python` tidak dikenali:
 
 ```bash
-python3 Dos.py
+./Dos.py
 ```
 
 ## Update
