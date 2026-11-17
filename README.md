@@ -1,7 +1,11 @@
 # QUANTUM-ETROPY (DOS)
+tools dos. atau serangan mengunakan teknik dos. dan sudah di lengkapi fitur user agent, 
 
-Deskripsi singkat script: apa fungsinya dan untuk apa dipakai.
-
+pakai format https/https
+```bash
+misal
+https://target.com
+```
 ## Persyaratan
 
 - Python 3.9 atau lebih baru
@@ -23,17 +27,7 @@ git clone https://github.com/xyxx-egx/botnet-DOS.git
 cd botnet-DOS
 ```
 
-### 2. Install library yang dibutuhkan
-
-Kalau script memakai library tambahan, install dulu (ganti sesuai kebutuhan):
-
-```bash
-pip install nama-library
-```
-
-Kalau script hanya memakai library bawaan Python, langkah ini dilewati.
-
-## Cara Menjalankan
+## Cara run
 
 ```bash
 python Dos.py
