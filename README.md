@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="assets/banner.png" width="600" alt="Banner">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.9%2B-blue">
+  <img src="https://img.shields.io/github/stars/xyxx-egx/NAMA-REPO?style=flat">
+  <img src="https://img.shields.io/github/last-commit/xyxx-egx/botnet-DOS-">
+</p>
+
 # QUANTUM-ETROPY (DOS)
 tools dos. atau serangan mengunakan teknik dos. dan sudah di lengkapi fitur user agent, 
 
